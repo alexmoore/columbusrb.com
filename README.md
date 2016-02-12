@@ -8,3 +8,4 @@ TODO: Add steps on how to join
 
 ### Contributing
 TODO: Add contributing information.
+Totally changed something
